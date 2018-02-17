@@ -1,2 +1,0 @@
-# Optimus
-OptimusPrime
